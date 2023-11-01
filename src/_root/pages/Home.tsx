@@ -2,7 +2,7 @@
 const Home = () => {
   return(
     <>
-      <p>Home component</p>
+      <>Home</>
     </>
   );
 };
